@@ -2,7 +2,7 @@ Matteo Steinbach
 
 # Google OAuth Rust Implementation
 
-A secure Rust implementation of Google OAuth 2.0 authentication using Warp web framework and JWT validation.
+A "secure" Rust implementation of Google OAuth 2.0 authentication using Warp web framework and JWT validation.
 
 ## Features
 
